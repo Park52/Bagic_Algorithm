@@ -1,5 +1,2 @@
 ﻿  FastExponentiation.cpp
-C:\Users\LG\Documents\GitHub\Bagic_Algorithm\FastExponentiation\FastExponentiation.cpp(33): warning C4477: 'printf' : 서식 문자열 '%lu'에 'unsigned long' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'ULONG'입니다.
-  C:\Users\LG\Documents\GitHub\Bagic_Algorithm\FastExponentiation\FastExponentiation.cpp(33): note: 서식 문자열에서 '%llu'을(를) 사용하는 것이 좋습니다.
-  C:\Users\LG\Documents\GitHub\Bagic_Algorithm\FastExponentiation\FastExponentiation.cpp(33): note: 서식 문자열에서 '%I64u'을(를) 사용하는 것이 좋습니다.
   FastExponentiation.vcxproj -> C:\Users\LG\Documents\GitHub\Bagic_Algorithm\FastExponentiation\Debug\FastExponentiation.exe

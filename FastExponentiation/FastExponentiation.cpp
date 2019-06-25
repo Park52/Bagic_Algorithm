@@ -1,6 +1,6 @@
 ﻿#include <stdio.h>
 
-typedef long long ULONG;
+typedef unsigned long ULONG;
 
 ULONG Power(int Base, int Exponent)
 {
